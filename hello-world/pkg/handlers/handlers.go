@@ -2,7 +2,8 @@ package handlers
 
 import (
 	"net/http"
-	// "github.com/deshmukhpurushothaman/go-learning/pkg/render"
+
+	"github.com/deshmukhpurushothaman/go-learning/hello-world/pkg/render"
 )
 
 func Home(w http.ResponseWriter, r *http.Request) {

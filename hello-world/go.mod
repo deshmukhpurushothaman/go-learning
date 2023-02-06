@@ -1,3 +1,3 @@
-module github.com/deshmukhpurushothaman/go-learning
+module github.com/deshmukhpurushothaman/go-learning/hello-world
 
 go 1.19
